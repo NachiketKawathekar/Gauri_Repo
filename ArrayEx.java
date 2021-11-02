@@ -17,6 +17,8 @@ public class ArrayEx
 			{
 				System.out.println(it.next());
 			}
+
 System.out.println("hi.......");
+
 		}
 }
